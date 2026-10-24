@@ -1,0 +1,6 @@
+{
+  "name": "ClassStream AI",
+  "description": "Amazon Fire TV interactive educational streaming platform featuring D-Pad spatial navigation, Prime Video dark design system, and X-Ray study insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
